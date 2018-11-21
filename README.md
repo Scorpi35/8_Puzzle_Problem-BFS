@@ -8,4 +8,4 @@
 
   python 8_Puzzle_Bfs.py 1,2,0,4,5,3,7,8,6 > output.txt
 
-Output will be generated in output.txt file on your directory
+Output will be generated in output.txt file in your working directory
