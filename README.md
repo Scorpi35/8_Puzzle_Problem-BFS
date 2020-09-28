@@ -1,10 +1,17 @@
-# 8_Puzzle_Problem-TreeGeneration
+# 8_Puzzle_Problem-BFS
 
-## BFS(Breadth First Search) Approach
+## Project Description
+BFS is an algorithm for traversing or searching tree of graph data structures. Hence, it can be used to soleve 8 puzzle problem and this repo implements BFS to solve the 8 puzzle problem.
+
+## Programming Language and libraries
+* Language:- Python
+* Libraries:- anytree, numpy
+
+## Result and screenshots
 
 ![alt text](https://github.com/Scorpi35/8_Puzzle_Problem-TreeGeneration/blob/master/Screen%20Shot%202018-11-21%20at%205.45.09%20PM.png)
 
-## Getting output
+## Running the program
 
   python 8_Puzzle_Bfs.py 1,2,0,4,5,3,7,8,6 > output.txt
 
