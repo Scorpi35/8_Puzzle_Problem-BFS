@@ -13,6 +13,6 @@ BFS is an algorithm for traversing or searching tree of graph data structures. H
 
 ## Running the program
 
-  python 8_Puzzle_Bfs.py 1,2,0,4,5,3,7,8,6 > output.txt
+1. python 8_Puzzle_Bfs.py 1,2,0,4,5,3,7,8,6 > output.txt
 
-Output will be generated in output.txt file in your working directory
+2. Output will be generated in output.txt file in your working directory
