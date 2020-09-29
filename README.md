@@ -1,7 +1,7 @@
 # 8_Puzzle_Problem-BFS
 
 ## Project Description
-BFS is an algorithm for traversing or searching tree of graph data structures. Hence, it can be used to soleve 8 puzzle problem and this repo implements BFS to solve the 8 puzzle problem.
+BFS is an algorithm for traversing or searching tree of graph data structures. Hence, it can be used to solve 8 puzzle problem and this repository implements BFS to solve the 8 puzzle problem.
 
 ## Programming Language and libraries
 * Language:- Python
